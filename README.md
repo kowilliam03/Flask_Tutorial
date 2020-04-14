@@ -4,7 +4,6 @@
 - ### [1. 什麼是後端(Back-End)?](#1.-什麼是後端(Back-End?) )
 - ### [2. Flask簡介與安裝](#2.-Flask簡介與安裝)
 - ### [3. 開發工具介紹](#3.-開發工具介紹)
-- ### 3. Flask基本語法介紹
 
 
 ### 1. 什麼是後端(Back-End)?
@@ -29,4 +28,4 @@ pip install flask
  2. 搜尋Python
  3. 找到第一個由微軟提供的Python Extension並點擊安裝。
  4. 安裝完成後，根據提示，重新啟動VSCode。
- 5. 接著就可以使用VSCode開始寫Flask了。
+ 5. 接著使用VSCode開啟app.py，開始寫Flask！！
