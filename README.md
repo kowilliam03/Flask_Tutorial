@@ -5,6 +5,7 @@
 - ### [2. ```Flask```簡介與安裝](#2.-```Flask```簡介與安裝)
 - ### [3. 開發工具介紹](#3.-開發工具介紹)
 - ### [4. Virtualenv 介紹](#4.-Virtualenv 介紹)
+- ### [5. Flask 介紹](#5.-Flask 介紹)
 
 
 ### 1. 什麼是後端(Back-End)?
@@ -60,3 +61,6 @@ source demo/bin/activate
 虛擬環境創建及啟用成功後，在 VSCode 中新開啟一個 Terminal ，看看有什麼變化吧~~
 
 接著便在新建立好的環境中，安裝 Flask 吧！！
+
+### 5. Flask 介紹
+[參考網址](https://flask.palletsprojects.com/en/master/quickstart/)
